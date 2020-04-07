@@ -1,0 +1,9 @@
+Week 10 Feedback
+
+36.1: 1/1
+36.2: 1/1 - This works, but note that you don't need to do all of the "setdefault".  You can just say A['street1'] = ... and it will set the value.  "setdefault" is useful particularly to also return the value if it hasn't been set, yet.
+38.1: 3/3
+
+Overall: 5/5
+
+Comments:
